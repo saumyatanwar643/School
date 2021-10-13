@@ -6,7 +6,6 @@
     right: 30px;
     z-index: 10;
     cursor: pointer;
-    margin-right: 200px
 }
 
 .links {
@@ -16,6 +15,11 @@
     padding-top: 5px;
     padding-bottom: 5px;
     color: #00ff2f;
+    margin-left: 50px;
+}
+
+.links:hover {
+    background-color: #0004ff;
 }
 
 .h1 {
